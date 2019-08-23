@@ -8,4 +8,4 @@ Materiales y Recursos para la asignatura SCT54 "Sistemas de Comunicaciones", ITM
 Prof. *Peter Mathys*.
 
 [Communication Systems I](http://www.eas.uccs.edu/~mwickert/ece5625/), [Communications Laboratory](http://www.eas.uccs.edu/~mwickert/ece4670/). 
-Prof. *Mark wickert*.
+Prof. *Mark Wickert*.
