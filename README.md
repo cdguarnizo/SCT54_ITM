@@ -15,3 +15,7 @@ Prof. *Peter Mathys*. <br>
 
 [Communication Systems I](http://www.eas.uccs.edu/~mwickert/ece5625/), [Communications Laboratory](http://www.eas.uccs.edu/~mwickert/ece4670/). 
 Prof. *Mark Wickert*.
+
+## Articulos
+
+[FM Radio in Smartphones](https://nabpilot.org/wp-content/uploads/2016/06/2015-BEC-Paper-FM-Radio-in-Smartphones-FINALr4.pdf)
