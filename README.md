@@ -21,4 +21,4 @@ Prof. *Mark Wickert*.
 [FM Radio in Smartphones](https://nabpilot.org/wp-content/uploads/2016/06/2015-BEC-Paper-FM-Radio-in-Smartphones-FINALr4.pdf)
 
 ## Youtuber Recomendado - Electronica FP - Lista de Videos Radio Comunicaciones
-[ELectronica FP](https://www.youtube.com/watch?v=7xiLAZFAV7g&list=PLuzS0jdNRVvrNSVUoD1tV5C8Ln8aIW-UL)
+[Electronica FP](https://www.youtube.com/watch?v=7xiLAZFAV7g&list=PLuzS0jdNRVvrNSVUoD1tV5C8Ln8aIW-UL)
