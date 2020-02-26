@@ -17,8 +17,10 @@ Prof. *Peter Mathys*. <br>
 Prof. *Mark Wickert*.
 
 ## Articulos
-
 [FM Radio in Smartphones](https://nabpilot.org/wp-content/uploads/2016/06/2015-BEC-Paper-FM-Radio-in-Smartphones-FINALr4.pdf)
+
+## Software GNU Radio Companion
+[GNU Radio instalador Windows](http://www.gcndevelopment.com/gnuradio/downloads/installers/v1.6.0/gnuradio_3.7.13.5_win64.msi)
 
 ## Youtuber Recomendado - Electronica FP - Lista de Videos Radio Comunicaciones
 [Electronica FP](https://www.youtube.com/watch?v=7xiLAZFAV7g&list=PLuzS0jdNRVvrNSVUoD1tV5C8Ln8aIW-UL)
