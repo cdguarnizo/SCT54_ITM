@@ -20,8 +20,8 @@ Prof. *Mark Wickert*.
 [FM Radio in Smartphones](https://nabpilot.org/wp-content/uploads/2016/06/2015-BEC-Paper-FM-Radio-in-Smartphones-FINALr4.pdf)
 
 ## Software GNU Radio Companion
-[GNU Radio instalador Windows 3.7](http://www.gcndevelopment.com/gnuradio/downloads/installers/v1.6.0/gnuradio_3.7.13.5_win64.msi)
-[GNU Radio instalador Windows 3.8 (Python 3.9)](http://www.gcndevelopment.com/gnuradio/downloads/installers/v3.8.2.1/gnuradio_3.8.2.0_win64.msi)
+[GNU Radio instalador Windows 3.7](http://www.gcndevelopment.com/gnuradio/downloads/installers/v1.6.0/gnuradio_3.7.13.5_win64.msi) <br>
+[GNU Radio instalador Windows 3.8 (Python 3.9)](http://www.gcndevelopment.com/gnuradio/downloads/installers/v3.8.2.1/gnuradio_3.8.2.0_win64.msi) <br>
 [GNU Radio instalador Windows 3.9 (Python 3.9)](http://www.gcndevelopment.com/gnuradio/downloads/installers/v3.9.0.0/gnuradio_3.9.0.0beta_win64.zip)
 
 ## Youtuber Recomendado - Electronica FP - Lista de Videos Radio Comunicaciones
